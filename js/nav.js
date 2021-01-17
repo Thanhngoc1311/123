@@ -11,22 +11,22 @@ function Nav(){
         "            <div class=\"menu-2\">\n" +
         "                <ul class=\"top-link\">\n" +
         "                    <li class=\"top-link-li\">\n" +
-        "                        <a href=\"http://localhost:63342/jactvn/Home.html?_ijt=qhk0m2cu5on07reium1159n97l\" class=\"list\">Trang Chủ</a>\n" +
+        "                        <a href=\"https://meow1311.herokuapp.com/\" class=\"list\">Trang Chủ</a>\n" +
         "                    </li>\n" +
         "                    <li class=\"top-link-li\">\n" +
-        "                        <a href=\"http://localhost:63342/jactvn/sanpham.html?_ijt=abhlhathu4bgjr2slbp01nkc06\" class=\"list\">Sản Phẩm</a>\n" +
+        "                        <a href=\"https://meow1311.herokuapp.com/sanpham.html\" class=\"list\">Sản Phẩm</a>\n" +
         "                    </li>\n" +
         "                    <li class=\"top-link-li\">\n" +
-        "                        <a href=\"http://localhost:63342/jactvn/giapphapungdung.html?_ijt=8f2u3rgjo958qqc2a2d326dq4s\" class=\"list\">Giải Pháp&Ứng Dụng</a>\n" +
+        "                        <a href=\"https://meow1311.herokuapp.com/giapphapungdung.html\" class=\"list\">Giải Pháp&Ứng Dụng</a>\n" +
         "                    </li>\n" +
         "                    <li class=\"top-link-li\">\n" +
-        "                        <a href=\"http://localhost:63342/jactvn/tintuc.html?_ijt=tpcpv6pts31ntc81a92vv72m8o\" class=\"list\">Tin Tức</a>\n" +
+        "                        <a href=\"https://meow1311.herokuapp.com/tintuc.html\" class=\"list\">Tin Tức</a>\n" +
         "                    </li>\n" +
         "                    <li class=\"top-link-li\">\n" +
-        "                        <a href=\"http://localhost:63342/jactvn/dichvu.html?_ijt=tpcpv6pts31ntc81a92vv72m8o\" class=\"list\">Dịch Vụ</a>\n" +
+        "                        <a href=\"https://meow1311.herokuapp.com/dichvu.html\" class=\"list\">Dịch Vụ</a>\n" +
         "                    </li>\n" +
         "                    <li class=\"top-link-li\">\n" +
-        "                        <a href=\"http://localhost:63342/jactvn/li%C3%AAnh.html?_ijt=720h5moel6huq344csba7kejsj\" class=\"list\">Liên Hệ</a>\n" +
+        "                        <a href=\"https://meow1311.herokuapp.com/li%C3%AAnh.html\" class=\"list\">Liên Hệ</a>\n" +
         "                    </li>\n" +
         "                    <li class=\"top-link-li\">\n" +
         "                        <a href=\"#\" class=\"list\">Tài Liệu</a>\n" +
