@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+hr{
+    border-top: 3px solid #f39900;
+}
+.title-ud h3{
+    font-size: 27px;
+    text-align: center;
+    color: #1185de;
+}
+#hr >hr{
+    border-top: 3px solid #eeeee;
+}

@@ -1,0 +1,24 @@
+#tt1{
+    background-color: #ebebed
+}
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.main a {
+    font-size: 15px;
+    padding: 5px 0;
+    display: block;
+    font-weight: 500;
+li {
+    position: relative;
+._box {
+    margin-bottom: 25px;
+    width: 100%;
+.box-title {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 19px;
+    color: #37b24a;
+    text-transform: capitalize;

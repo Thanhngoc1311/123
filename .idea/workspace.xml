@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58850aaa-757c-4ce2-a108-2ed5be393eb9" name="Default Changelist" comment="uppppp">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jactvn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap 3.4.1/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/at550-vectorac.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdkcd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cndk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css jact/Home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css jact/dicvu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css jact/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css jact/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css jact/sanpham.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css jact/tintuc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css jact/ungdung.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css jact/vectora.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ctmnn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dcdtl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dichvu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome_5.15.1/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/giapphapungdung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/4cham.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/MÀN HÌNH HMI sp8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/adrss.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/anh gioi thieu 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/background1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/background2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/banner 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/banner_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/bannerlh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/bannersp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/bannertintuc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/bannerud.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/bdkcd1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/bdkcd2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/bdkcd3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/cndk1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/cndk2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/cndk3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/cnth1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/cnth2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/cnth3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/cnth4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/cnth5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/cnth6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/cnth7.7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/cnth7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/email.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/footer_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/gt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/icon_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/icon_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/icon_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/jact1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/khungnew.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/lienhe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/lienhe1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/lienhe2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/liênh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/logo_jact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/maycapnuoc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/maykeoday.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/0-19f617af2f307e814774.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/113-67e40790723e40acf98e.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/113-d467d8531f18df60558d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/38-78dabb770c65823477c4.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/4-96c01f730aabef9919ba.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/426-1170e65ce7e835ee8777.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/44-e470cf733c8a3f07a523.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/45-019e9c9d51ff8a0d5136.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/46-960233a7e7259439ae5a.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/49-1c8cffbe416535ae3263.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/512-e5d5a158c55f80481fa4.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/52-f855fb63e0b25bd05dca.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/53-59b5580b46ccd63a61bd.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/58-41546994adf82934a88a.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/62-f1cb85c093f5422fea1c.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/66-df122fb9e848ab55e5f1.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/67-898cc66c8c2ddd0b3675.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/96-990535c6e417f40420a1.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/AutologinUtilCommon-603ad7855a55246645e7.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/G_sjSpWXr9l.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/GoogleOneTapPresenter-08182cff3f2c16977c6a.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/OF6ddsGKpeB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/ScriptCommon-bb65908a9c44271f70fe.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/UpbbfAqGBJpdvzE3r7hPj-1jdyFZNCb5NEOKwqfN3Mg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/[method]-unauthdesktop-3464ff9928c942b58e3a.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/[method]-unauthdesktop-b994dadeb80480fa8915.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/_client-unauthdesktop-7b2273d407fe364e5c14.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/anchor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/cb=gapi.loaded_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/client_platform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/enterprise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/locale-vi_VN-lite-11bbf2ba8c77c217dc1a.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/login_button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/m=credential_button_library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/m=credential_button_library(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/polyfills-4519de78a1f21ad743a7.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/recaptcha__vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/runtime-cc57621b51577e527e64.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/saved_resource(1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/saved_resource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/sdk(1).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/sdk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/style" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/styles__ltr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new5_files/vendor-react-5c29f0016407f9f673f9.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/new8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/p10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/p11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/phone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp001.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp1.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp10.10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp12.12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp2.2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp3.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp3.3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp4.4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp5.5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp8.8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp9.9.2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp9.9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/sp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/tbnlm1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/tbnlm2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/tel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/ud1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img jact/—Pngtree—vector creative breaking news tag_4265318.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liênh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanpham.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp001.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp002.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tbnlm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tintuc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udmkd.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML4 File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mE4kKAxnn8GhosxdwuKZzrTlyW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="stylesheet.code.style.group" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.cnth.html">
+    <configuration name="cnth.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jactvn/cnth.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="dichvu.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jactvn/dichvu.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="sp11.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jactvn/sp11.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.cnth.html" />
+        <item itemvalue="JavaScript Debug.sp11.html" />
+        <item itemvalue="JavaScript Debug.dichvu.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58850aaa-757c-4ce2-a108-2ed5be393eb9" name="Default Changelist" comment="" />
+      <created>1609045557900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609045557900</updated>
+      <workItem from="1609045559224" duration="87000" />
+      <workItem from="1609049451975" duration="225000" />
+      <workItem from="1609049735911" duration="77000" />
+      <workItem from="1609050314776" duration="4529000" />
+      <workItem from="1609057372066" duration="3061000" />
+      <workItem from="1609061167266" duration="2698000" />
+      <workItem from="1609127700370" duration="27000" />
+      <workItem from="1609127842802" duration="11736000" />
+      <workItem from="1609208498846" duration="304000" />
+      <workItem from="1609214781657" duration="213000" />
+      <workItem from="1609223449736" duration="1303000" />
+      <workItem from="1609235644192" duration="531000" />
+      <workItem from="1609236559865" duration="16000" />
+      <workItem from="1609236588434" duration="47000" />
+      <workItem from="1609236696951" duration="675000" />
+      <workItem from="1609250195149" duration="38000" />
+      <workItem from="1609250298106" duration="4356000" />
+      <workItem from="1609255279794" duration="13245000" />
+      <workItem from="1609386176177" duration="41994000" />
+      <workItem from="1609745650258" duration="131000" />
+      <workItem from="1609747468330" duration="543000" />
+      <workItem from="1609813522986" duration="10377000" />
+      <workItem from="1609982385110" duration="1151000" />
+      <workItem from="1609986792701" duration="198000" />
+      <workItem from="1609990554711" duration="4173000" />
+      <workItem from="1610002018794" duration="286000" />
+      <workItem from="1610002506478" duration="115000" />
+      <workItem from="1610006019246" duration="2161000" />
+      <workItem from="1610075333126" duration="4475000" />
+      <workItem from="1610080724329" duration="935000" />
+      <workItem from="1610365975684" duration="587000" />
+      <workItem from="1610370646287" duration="172000" />
+      <workItem from="1610372465399" duration="57000" />
+      <workItem from="1610439285870" duration="1374000" />
+      <workItem from="1610444356890" duration="56000" />
+      <workItem from="1610444490283" duration="40000" />
+      <workItem from="1610444582437" duration="1921000" />
+      <workItem from="1610700126533" duration="175000" />
+      <workItem from="1610700466508" duration="49000" />
+      <workItem from="1610700531305" duration="15000" />
+      <workItem from="1610701104149" duration="439000" />
+      <workItem from="1610701712715" duration="16000" />
+      <workItem from="1610702748661" duration="419000" />
+      <workItem from="1610704888931" duration="212000" />
+      <workItem from="1610883211396" duration="1827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="uppppp" />
+    <option name="LAST_COMMIT_MESSAGE" value="uppppp" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="177" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610445405433">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="363" y="177" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.728@0.23.1280.728" timestamp="1610445405433" />
+    <state x="110" y="123" width="1060" height="509" key="DiffContextDialog" timestamp="1609134844505">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="110" y="123" width="1060" height="509" key="DiffContextDialog/0.23.1280.728@0.23.1280.728" timestamp="1609134844505" />
+    <state width="1239" height="212" key="GridCell.Tab.0.bottom" timestamp="1609995015742">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1239" height="212" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1609995015742" />
+    <state width="1239" height="212" key="GridCell.Tab.0.center" timestamp="1609995015741">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1239" height="212" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1609995015741" />
+    <state width="1239" height="212" key="GridCell.Tab.0.left" timestamp="1609995015740">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1239" height="212" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1609995015740" />
+    <state width="1239" height="212" key="GridCell.Tab.0.right" timestamp="1609995015742">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1239" height="212" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1609995015742" />
+    <state width="1239" height="212" key="GridCell.Tab.1.bottom" timestamp="1609995015745">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1239" height="212" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1609995015745" />
+    <state width="1239" height="212" key="GridCell.Tab.1.center" timestamp="1609995015744">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1239" height="212" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1609995015744" />
+    <state width="1239" height="212" key="GridCell.Tab.1.left" timestamp="1609995015743">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1239" height="212" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1609995015743" />
+    <state width="1239" height="212" key="GridCell.Tab.1.right" timestamp="1609995015744">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1239" height="212" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1609995015744" />
+    <state width="1239" height="212" key="GridCell.Tab.2.bottom" timestamp="1609995015749">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1239" height="212" key="GridCell.Tab.2.bottom/0.23.1280.728@0.23.1280.728" timestamp="1609995015749" />
+    <state width="1239" height="212" key="GridCell.Tab.2.center" timestamp="1609995015746">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1239" height="212" key="GridCell.Tab.2.center/0.23.1280.728@0.23.1280.728" timestamp="1609995015746" />
+    <state width="1239" height="212" key="GridCell.Tab.2.left" timestamp="1609995015745">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1239" height="212" key="GridCell.Tab.2.left/0.23.1280.728@0.23.1280.728" timestamp="1609995015745" />
+    <state width="1239" height="212" key="GridCell.Tab.2.right" timestamp="1609995015747">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1239" height="212" key="GridCell.Tab.2.right/0.23.1280.728@0.23.1280.728" timestamp="1609995015747" />
+    <state x="141" y="23" key="SettingsEditor" timestamp="1609475047264">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="141" y="23" key="SettingsEditor/0.23.1280.728@0.23.1280.728" timestamp="1609475047264" />
+    <state x="304" y="168" key="run.anything.popup" timestamp="1609475398908">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="304" y="168" key="run.anything.popup/0.23.1280.728@0.23.1280.728" timestamp="1609475398908" />
+    <state x="303" y="72" width="672" height="678" key="search.everywhere.popup" timestamp="1609994206781">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="303" y="72" width="672" height="678" key="search.everywhere.popup/0.23.1280.728@0.23.1280.728" timestamp="1609994206781" />
+  </component>
+</project>

@@ -1,0 +1,128 @@
+@charset "utf-8";
+
+
+#footer{
+    width: 100%;
+    background: #3c3c3c;
+    position: relative;
+    z-index: 0;
+    overflow: hidden;
+}
+
+
+
+#footer .content{
+    margin:30px auto 0px;
+    overflow: hidden;
+    width:1180px;
+    position: relative;
+    background: url(../img%20jact/footer_logo.png) no-repeat left 20px;
+    padding:15px 0 30px 330px;
+}
+#footer .content .fw{
+    color: #fff;
+    position: absolute;
+    top: 60px;
+    width: 215px;
+    right: 0px;
+    font-size: 12px;
+}
+#footer .content .mainBox{
+    position: relative;
+    background-size: 215px;
+    padding: 15px 300px 0 15px;
+    overflow: hidden;
+}
+#footer .content dl{
+    float: left;
+    overflow: hidden;
+    width: 160px;
+    padding-left: 30px;
+}
+#footer .content  dt{
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #fff;
+}
+#footer .content  dd{
+}
+#footer .content  dd a{
+    font-size: 14px;
+    display: block;
+    color: #bbb;
+    width: 120px;
+    float:left;
+}
+#footer .content  dd{
+    font-size: 14px;
+}
+#footer .content  dd a:hover{
+    color: #fff;
+}
+
+#footer .cop{
+    color: #d2d2d2;
+    font-size: 12px;
+    margin:0 auto;
+    width: 95%;
+    min-width: 1200px;
+    text-align: center;
+    padding: 20px 0;
+    border-top: 1px solid #595959;
+}
+
+#footer .cop span{
+    display: block;
+    margin-bottom: 10px;
+    position: absolute;
+    left: 0;
+    top: 65px;
+    font-size:12px;
+}
+#footer .cop p{
+    font-size: 12px;
+}
+#footer .cop p a{
+    color: #fff;
+    display: inline-block;
+    margin:0 10px;
+}
+
+#footer .weixin{
+    position: absolute;
+    right: 30px;
+    top: 15px;
+    text-align: center;
+    font-size:12px;
+    padding-left: 30px;
+    height: 120px;
+}
+#footer .weixin{
+    right: 0px;
+}
+#footer .weixin h4{
+    color: #fff;
+    font-size: 12px;
+    font-weight: normal;
+}
+#footer .weixin img{
+    display: block;
+    width: 120px;
+
+}
+
+@media screen and (max-width: 768px) {
+
+    #footer .content{
+        display: none;
+    }
+    #footer .cop{
+        width: 95%;
+        min-width: 95%;
+    }
+    #footer .cop p{
+        font-size: 12px;
+        line-height: 1.4em;
+    }
+    /*移动版样式*/
+}

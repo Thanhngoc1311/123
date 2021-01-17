@@ -1,0 +1,131 @@
+@charset "utf-8";
+body{
+    background-color: #f1f1f1;
+}
+#main{
+    min-height: 500px;
+    padding-bottom: 50px;
+    overflow: hidden;
+}
+#main .breadcrumb {
+    overflow: hidden;
+    position: relative;
+    border-bottom: 1px solid #eee;
+    padding: 15px 0;
+    margin-bottom: 10px;
+}
+#main .breadcrumb  .line{
+    position: absolute;
+    height: 5px;
+    width: 12px;
+    top: 26px;
+    left: 4px;
+    background-color: #f39800;
+}
+#main .breadcrumb .breadcrumbLink{
+    padding-left: 25px;
+    color: #777;
+}
+#main .breadcrumb .breadcrumbLink a{
+    color: #777;
+}
+#main .breadcrumb .breadcrumbLink a:hover{
+    color: #0e6eb8;
+}
+#main .detail .detailCon{
+    padding: 50px;
+    background-color: #fff;
+}
+#main .detail .detailCon .title{
+    text-align: center;
+    font-size: 26px;
+    padding-bottom: 20px;
+    color: #0d6eb8;
+}
+#main .detail .detailCon .info{
+    line-height: 40px;
+    text-align: center;
+    color: #666;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed #eee;
+    margin-bottom: 20px;
+}
+#main .detail .detailCon .content img{
+    max-width: 100%;
+    margin-bottom:10px;
+}
+#main .detail .detailCon .content {
+    font-size: 18px;
+    line-height: 1.8em;
+}
+#main .detail .detailCon .content video{
+    margin:40px auto;
+    width:720px;
+    display: block;
+}
+@media screen and (max-width: 768px) {
+    #main{
+        min-height: 500px;
+        padding-bottom: 20px;
+        overflow: hidden;
+        padding: 0 10px 10px;
+    }
+    #main .breadcrumb {
+        overflow: hidden;
+        position: relative;
+        border-bottom: 1px solid #eee;
+        padding: 15px 0;
+        margin-bottom: 10px;
+    }
+    #main .breadcrumb  .line{
+        position: absolute;
+        height: 5px;
+        width: 12px;
+        top: 26px;
+        left: 4px;
+        background-color: #f39800;
+    }
+    #main .breadcrumb .breadcrumbLink{
+        padding-left: 25px;
+        color: #777;
+    }
+    #main .breadcrumb .breadcrumbLink a{
+        color: #777;
+    }
+    #main .breadcrumb .breadcrumbLink a:hover{
+        color: #0e6eb8;
+    }
+    #main .detail .detailCon{
+        padding: 20px;
+        background-color: #fff;
+    }
+    #main .detail .detailCon .title{
+        text-align: left;
+        font-size: 20px;
+        line-height: 1.4em;
+        padding-bottom: 20px;
+    }
+    #main .detail .detailCon .info{
+        line-height: 16px;
+        text-align: left;
+        color: #666;
+        font-size: 12px;
+        padding-bottom: 8px;
+        border-bottom: 1px dashed #eee;
+        margin-bottom: 20px;
+    }
+    #main .detail .detailCon .content img{
+        max-width: 100%;
+        margin-bottom:10px;
+    }
+    #main .detail .detailCon .content {
+        font-size: 18px;
+        line-height: 1.8em;
+    }
+    #main .detail .detailCon .content video{
+        margin:0px auto;
+        width:100%;
+        display: block;
+    }
+
+}

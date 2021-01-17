@@ -1,0 +1,291 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: 'Open Sans', sans-serif;
+}    /*Style MENU*/
+/*HOME banner*/
+#banner{
+    width: 100%;
+    min-width: 1200px;
+    margin-top: 90px;
+    position: relative;
+    z-index: 0;
+}
+.banner-top{
+    width: 100%;
+    height: 100%;
+}
+.s1{
+    position: relative;
+    list-style: none;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+.banner1-top{
+    /*background-image: url("../img jact/banner 1.jpg");*/
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 0;
+    background-position: center center;
+    background-size: cover;
+}
+
+/* Slideshow container */
+.slideshow-container {
+    max-width: 100%;
+    position: relative;
+    margin: auto;
+}
+/* Ẩn các slider */
+.mySlides {
+    display: none;
+}
+
+/* định dạng các chấm chuyển đổi các slide */
+.dot {
+    cursor:pointer;
+    height: 13px;
+    width: 13px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 1s ease;
+}
+/* khi được hover, active đổi màu nền */
+.active, .dot:hover {
+    background-color: #717171;
+}
+
+/* Thêm hiệu ứng khi chuyển đổi các slide */
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 2s;
+    animation-name: fade;
+    animation-duration: 2s;
+}
+
+@-webkit-keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+}
+
+@keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+}
+/**/
+#md7, #md5{
+    background-color: #ebebed;
+    border-style: solid;
+    border-color: #ffffff;
+
+}
+#md7, #md5{
+    height: 1030px
+}
+.a{
+    text-align: center;
+}
+
+
+/**/
+@charset "utf-8";
+@font-face {
+    font-family: Gotham;
+    src: url('../font/Gotham-Thin.otf');
+}
+@font-face {
+    font-family: CODE_Bold;
+    src: url('../font/CODE_Bold.otf');
+}
+html, body, div, span, p, ol, ul, li, i, h1, h2, h3, h4, h5, h6, dl, dt, dd, form, input, textarea, select, button{
+    margin: 0;
+    padding:0;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+    -moz-font-smoothing:antialiased;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing:antialiased;
+}
+body{
+    font:14px/24px Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, sans-serif;
+    letter-spacing:0;
+    color:#000;
+    margin:0;
+    padding:0;
+    height: 100%;
+    width: 100%;
+}
+ol,ul{ padding-left: 3rem;}
+p{margin:0;  padding: 0}
+img{border:0px;}
+a{ color: #000; text-decoration:none; cursor:pointer; outline:none; }
+a, area {outline:none; blr:expression(this.onFocus=this.blur())}
+a:hover{ color: #0e6eb8; text-decoration:none;}
+input,button,select,textarea{outline:none;}
+/**/
+#service{
+    background: url(../img%20jact/background1.jpg) no-repeat center center;
+    height: 508px;
+    padding: 10px 0;
+    position: relative;
+}
+#service .title{
+    text-align: center;
+    padding: 70px 0;
+    overflow: hidden;
+}
+#service .title h2{
+    color: #fff;
+    font-size: 30px;
+    font-weight: normal;
+    position: relative;
+    z-index: 1;
+}
+#service .title p{
+    font-size: 60px;
+    color: #fff;
+    margin-top: -50px;
+    font-weight: bold;
+    opacity: 0.2;
+    text-transform:uppercase;
+}
+#service .serviceCon{
+    padding: 0px 0 120px;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+}
+#service .serviceBox .serviceBlock{
+    display: inline-block;
+    width: 31%;
+    margin:0 1%;
+    background: #fff;
+    height: 95px;
+    padding:20px 0 0 150px;
+    position: relative;
+}
+#service .serviceBox .serviceBlock span.icon{
+    width: 125px;
+    height: 125px;
+    position: absolute;
+    top: -15px;
+    left: 0;
+    display: block;
+    margin-right: 20px;
+    background: #2193ea url(../img%20jact/icon_07.png) no-repeat center center;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+#service .serviceBox .serviceBlock span.icon_02{
+    background: #2193ea url(../img%20jact/icon_08.png) no-repeat center center;
+}
+#service .serviceBox .serviceBlock span.icon_03{
+    background: #2193ea url(../img%20jact/icon_09.png) no-repeat center center;
+}
+#service .serviceBox a:hover .serviceBlock span.icon{
+    background-color: #ff7e00;
+}
+
+#service .serviceBox .serviceBlock b{
+    font-size: 22px;
+    font-weight: normal;
+    line-height: 2rem;
+    height: 65px;
+    overflow: hidden;
+    display: block;
+}
+#service .serviceBox .serviceBlock p{
+    text-transform:uppercase;
+    font-size: 14px;
+    color: #888;
+}
+/**/
+#product{
+    background: #f5f5f5;
+    padding: 40px 0;
+}
+#product .title{
+    text-align: center;
+    padding: 70px 0 45px;
+    overflow: hidden;
+}
+#product .title h2{
+    font-size: 30px;
+    font-weight: normal;
+    position: relative;
+    z-index: 1;
+}
+#product .title p{
+    font-size: 60px;
+    color: #fff;
+    margin-top: -50px;
+    font-weight: bold;
+}
+#product .productList{
+    overflow: hidden;
+    text-align: center;
+    padding-top:25px;
+}
+#product .productBlock{
+    display: inline-block;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 5px 12px rgba(0,0,0,0.1);
+    width: 360px;
+    padding: 20px 25px;
+    margin: 0 10px;
+    margin-bottom:30px;
+    position: relative;
+    top: 0;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    height: 200px;
+}
+#product .productBlock:hover{
+    top: -8px;
+    box-shadow: 0 5px 25px rgba(0,0,0,0.2);
+}
+#product .productBlock a{
+    display: block;
+}
+
+#product .productBlock .pro-icon{
+    float: left;
+    margin-right: 20px;
+    line-height: 0;
+}
+#product .productBlock .pro-icon img{
+    line-height: 0;
+}
+#product .productBlock .pro-con{
+    text-align: left;
+}
+#product .productBlock .pro-con h1{
+    font-size: 18px;
+    margin-bottom:10px;
+    padding-top: 8px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    height: 61px;
+    overflow: hidden;
+}
+#product .productBlock .pro-con p{
+    color: #888;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: justify;
+    height: 100px;
+    overflow: hidden;
+}
+
